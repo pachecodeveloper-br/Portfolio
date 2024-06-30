@@ -1512,7 +1512,7 @@ select {
 	/* Header */
 	.header {
 		overflow: hidden;
-		padding-top: 18.25rem;
+		padding-top: 12rem;
 		padding-bottom: 11.5rem;
 	}
 
